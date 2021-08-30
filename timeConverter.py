@@ -16,5 +16,6 @@ def convert (fTime):
 
 
     
-time = '12:05:45AM'
+#time = '12:05:45AM'
+time = input ()
 convert (time)
